@@ -1,6 +1,7 @@
 # Trabalho de Estruturas de Dados II - Vertex Cover
 Acadêmico: Ronaldo Dranski
 Período/Curso: ADSIS_5S
+
 Repositório destinado à entrega do exercício prático de simulação de War Room. O objetivo é resolver o problema de Cobertura de Vértices (Vertex Cover) aplicado a um cenário de ataque cibernético em uma infraestrutura de rede.
 
 ## Implementação e Complexidade
