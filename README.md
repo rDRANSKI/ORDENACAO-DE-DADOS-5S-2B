@@ -17,3 +17,6 @@ O problema do Vertex Cover pertence à classe dos problemas NP-Completos. Para o
 1. Compilar o arquivo:
    ```bash
    javac WarRoomVertexCover.java
+2. Executar o arquivo:
+   ```bash
+   java WarRoomVertexCover
